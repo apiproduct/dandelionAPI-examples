@@ -1,2 +1,2 @@
 # dandelionAPI-examples
-Node.js code examples for Dandelion API workflows
+Node.js code examples for Dandelion Send API.
